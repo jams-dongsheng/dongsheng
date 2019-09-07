@@ -7,6 +7,6 @@ public class demoTest {
         System.out.println("好开心");
         System.out.println("上传成功");
         System.out.println("能拉去么？");
-
+        System.out.println("拉取也成功了");
     }
 }
